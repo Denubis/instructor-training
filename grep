@@ -1,0 +1,9 @@
+Configuration file: /home/brian/People/swc/instructor-training-8-sessions-2021/_config.yml
+            Source: /home/brian/People/swc/instructor-training-8-sessions-2021
+       Destination: /home/brian/People/swc/instructor-training-8-sessions-2021/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+jekyll 3.9.0 | Error:  Could not find document '_episodes/02-practice-learning.md' in tag 'link'.
+
+Make sure the document exists and the path is correct.
+

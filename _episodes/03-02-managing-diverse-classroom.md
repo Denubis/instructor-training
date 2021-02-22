@@ -93,7 +93,7 @@ and hope that they will understand.
 
 ## Code of Conduct Violations
 
-As discussed in the [Motivation episode]({{ page.root }}{% link _episodes/08-motivation.md %}),
+As discussed in the [Motivation episode]({{ page.root }}{% link _episodes/04-03-motivation-and-demotivation.md %}),
 the Carpentries uses a Code of Conduct as a tool to create a respectful and
 inclusive learning environment. Occasionally, part of managing the classroom
 may include dealing with a Code of Conduct violation.
@@ -231,13 +231,6 @@ the person you just taught with.
 
 
 
-At the end of the morning, do the following:
-
-> ## Minute Cards Revisited
->
-> Use your sticky notes to write minute cards
-> as discussed [yesterday]({{ page.root }}/{% link _episodes/06-feedback.md %}#minute-cards).
-{: .challenge}
 
 [worldcat-interactions]: http://www.worldcat.org/title/interactions-collaboration-skills-for-school-professionals/oclc/930364264
 [helpers]: https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html#helper-checklist

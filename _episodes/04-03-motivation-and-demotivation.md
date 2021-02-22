@@ -96,7 +96,7 @@ motivating.
 > If people need to run shell commands on the files they have edited,
 > a substantial fraction will not be able to navigate to the right directory without help.
 > If this seems like a small problem to you,
-> please revisit the discussion of [expert awareness gap]({{ page.root }}{% link _episodes/03-expertise.md %}#expertise-and-teaching).
+> please revisit the discussion of [expert awareness gap]({{ page.root }}{% link _episodes/02-01-expertise-and-instruction.md %}#expertise-and-teaching).
 {: .callout}
 
 ## Other Motivational Strategies
@@ -121,19 +121,19 @@ learners.
 >     5. Identify and reward what you value.
 >     6. Show your own passion and enthusiasm for the discipline.
 > * Strategies to Build Positive Expectations
-> 	1. Ensure alignment of objectives, assessments, and instructional strategies.
-> 	2. Identify an appropriate level of challenge.
-> 	3. Create assignments that provide an appropriate level of challenge.
-> 	4. Provide early success opportunities.
-> 	5. Articulate your expectations.
-> 	6. Provide rubrics.
-> 	7. Provide targeted feedback.
-> 	8. Be fair.
-> 	9. Educate learners about the ways we explain success and failure.
-> 	10. Describe effective study strategies.
+>   1. Ensure alignment of objectives, assessments, and instructional strategies.
+>   2. Identify an appropriate level of challenge.
+>   3. Create assignments that provide an appropriate level of challenge.
+>   4. Provide early success opportunities.
+>   5. Articulate your expectations.
+>   6. Provide rubrics.
+>   7. Provide targeted feedback.
+>   8. Be fair.
+>   9. Educate learners about the ways we explain success and failure.
+>   10. Describe effective study strategies.
 > * Strategies for Self-Efficacy
-> 	1. Provide learners with options and the ability to make choices.
-> 	2. Give learners an opportunity to reflect.
+>   1. Provide learners with options and the ability to make choices.
+>   2. Give learners an opportunity to reflect.
 >
 > This exercise and discussion should take about 5 minutes.
 {: .challenge}
