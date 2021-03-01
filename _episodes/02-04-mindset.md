@@ -48,7 +48,7 @@ they study, seeing the poor score as an indication that they need to try harder 
 
 Their attitude towards failure leads fixed-mindset people to avoid situations where they will be required to perform. They will not volunteer to answer
 questions in class or to demonstrate a sports technique to their team. This tendency prevents fixed-mindset people from using opportunities to practice
-and receive feedback, which, [as we have discussed]({{ page.root }}{% link _episodes/01-02-building-skill-with-practice.md %}), is essential to learning.
+and receive feedback, which, [as we have discussed]({{ page.root }}{% link 01-02-building-skill-with-practice.md %}), is essential to learning.
 
 > ## Does Mindset Matter?
 > Think: What kind of mindset do you have about different areas? Is there anything you believe you are "not naturally
@@ -169,7 +169,7 @@ grit.
 passion and drive for learning despite the difficulties of the topic.
 
 > ## How Are You Gritty? (Optional)
-> A [previous exercise]({{ page.root }}{% link _episodes/04-03-motivation-and-demotivation.md %}#overcoming-imposter-syndrome-optional) asked you to think of a time when learning something was difficult for you, or
+> A [previous exercise]({{ page.root }}{% link 04-03-motivation-and-demotivation.md %}#overcoming-imposter-syndrome-optional) asked you to think of a time when learning something was difficult for you, or
 > you made a mistake that seemed silly or embarrassing.
 >
 > How did you motivate yourself to continue learning? How did it feel to persist in the face of challenge?

@@ -93,7 +93,7 @@ and hope that they will understand.
 
 ## Code of Conduct Violations
 
-As discussed in the [Motivation episode]({{ page.root }}{% link _episodes/04-03-motivation-and-demotivation.md %}),
+As discussed in the [Motivation episode]({{ page.root }}{% link 04-03-motivation-and-demotivation.md %}),
 the Carpentries uses a Code of Conduct as a tool to create a respectful and
 inclusive learning environment. Occasionally, part of managing the classroom
 may include dealing with a Code of Conduct violation.
